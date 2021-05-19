@@ -1,7 +1,7 @@
 ### Hi I am Tashin👋
 - 🌱 I’m currently learning Django
 - 📫 How to reach me: tashin.hossain.cu@gmail.com
-- 🔭 I’m currently working on Machine Learning and Data Science
+- 🔭 I’m working on Machine Learning and Data Science
 - 💬 Ask me about if you have any question about any projects that present in my repository
 
 ### Publications
