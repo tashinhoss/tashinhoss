@@ -1,7 +1,7 @@
 ### Hi I am Tashin👋
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently interested in working with LLM
 - 📫 How to reach me: tashin.hossain.cu@gmail.com
-- 🔭 My research interests lies in Natural Language Processing, Multimodal Information Processing, and Computational Social Science
+- 🔭 My research interests lie in Natural Language Processing, Multimodal Information Processing, and Computational Social Science
 - 💬 Ask me if you have any questions about any projects that are present in my repository
 
 ### Publications
